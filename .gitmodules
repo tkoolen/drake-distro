@@ -30,7 +30,3 @@
 	path = libbot
 	url = https://github.com/RobotLocomotion/libbot.git
 	branch = master
-[submodule "snopt"]
-	path = snopt
-	url = https://github.com/RobotLocomotion/snopt.git
-	branch = master
