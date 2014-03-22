@@ -6,7 +6,3 @@
 	path = drake
 	url = https://github.com/RobotLocomotion/drake.git
 	branch = master
-[submodule "lcm"]
-	path = lcm
-	url = https://github.com/RobotLocomotion/lcm-pod.git
-	branch = master
