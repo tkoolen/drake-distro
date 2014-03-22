@@ -2,11 +2,6 @@
 # and lines starting with '#' are ignored
 
 lcm
-libbot
-eigen
-bullet
-avl
-xfoil
 spotless
 drake
 
