@@ -70,7 +70,7 @@ install_prereqs_macports:
 	done
 
 install_prereqs_ubuntu:
-	apt-get install cmake 
+	apt-get install cmake openjdk-6-jdk build-essential
 	@for subdir in $(SUBDIRS); do \
 		$(MAKE) -C $$subdir $@; \
 	done
